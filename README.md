@@ -7,11 +7,11 @@
 
 ## 发起
 **Type-1**———您在code review自身团队代码中或其它代码中认为存在或不可取的bad code，并且您认为有good code / best code去实现它。
-  1. 标题:[主要阐述]
+  1. 标题:[您的主要阐述]
   2. 来源:[您从何处看到的-bad code]
   3. 场景:[什么样的场景下的什么功能]
   4. 坏处:[指出它为什么是-bad code]
-  5. 好的实现:[贴出您认为的-good code / best code]
+  5. 好的实现:[输出你认为的-good code / best code]
   6. 为何示是好的:[说明它为什么是good code / best code]
   7. 避免:[如何避免此类的bad code]
   
