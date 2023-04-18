@@ -6,7 +6,7 @@
 单一示例的代码片段 ❌
 
 ## 发起
-**Type-1**————您在code review自身团队代码中或其它代码中认为存在或不可取的bad code，并且您认为有good code / best code去实现它。
+**Type-1**———您在code review自身团队代码中或其它代码中认为存在或不可取的bad code，并且您认为有good code / best code去实现它。
   1. 标题:[主要阐述]
   2. 来源:[您从何处看到的-bad code]
   3. 场景:[什么样的场景下的什么功能]
@@ -17,7 +17,7 @@
   
 
 <br><br>
-**Type-2**:————您在实现某个场景中的功能中认为自己的代码是bad code，但您不知道如何变成best code，那么请您贴出您认为的bad code，可由他人帮助您变成best code。
+**Type-2**:———您在实现某个场景中的功能中认为自己的代码是bad code，但您不知道如何变成best code，那么请您贴出您认为的bad code，可由他人帮助您变成best code。
   1. 您认为它是bad code的理由
   2. 您理想中的设计/实现应该是怎样的？
 
