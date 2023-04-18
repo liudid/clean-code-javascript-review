@@ -1,4 +1,4 @@
-# JavaScript场景功能实现code review
+# JavaScript场景功能code review
 打造实用场景中的good code，用于他人参考或学习
 
 ## 注意
