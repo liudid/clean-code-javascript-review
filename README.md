@@ -1,4 +1,4 @@
-# clean-code-javascript-review
+# JavaScript场景功能实现code review
 打造实用场景中的good code，用于他人参考或学习
 
 
