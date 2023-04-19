@@ -5,7 +5,7 @@
 ## 可能对您的帮助
  1. 我学习了一些设模式或看到了一些clean code，我想把其中的“Good”应用在我们的实际开发场景中，并熟练掌握它
  2. 我看到了一些Bad code，但我不知如何把它变成Good code，我想参考一些他人的设计
-3.我在团队中缺少code review环境，我想提高自己的code水平
+ 3. 我在团队中缺少code review环境，我想提高自己的code水平
 
 ## 输出
  * PR：输出您在code review时认为“经常容易”出现的Bad code，并输出您认为的Good code
