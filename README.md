@@ -141,7 +141,7 @@ clickMenu('1')
 **Best:**
 ```javascript
 // 对Good进行了优化，字符串'1234'没有任何含义，使用Symbol()代替
-// 好处：不可以使用changeTab('xx')进行隐式传值
+// 好处：必须使用MENUS_TYPE进行显示传值，避免了使用其它方式进行隐式传值
 const MENUS_TYPE = {
   Edit: symbol(),
   Detail: symbol(),
