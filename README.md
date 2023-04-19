@@ -1,5 +1,5 @@
 # JavaScript功能实现code review
-实践场景中的Good code，用于他人参考或学习
+积累实践场景中的Good code，用于他人参考或学习
 
 
 ## 可能对您的帮助
