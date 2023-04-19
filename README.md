@@ -94,7 +94,7 @@ clickMenu('edit')
 ```javascript
 // 用类似枚举的方式将类型进行置顶声明，改变value时，无需更改其它位置
 // 好处：消除了“魔法字符串”（Eliminate the magic string）
-// 弊端：使用clickMenu('edit')可以进行隐式传值
+// 弊端：使用clickMenu('1')可以进行隐式传值
 const MENUS_TYPE = {
   Edit: '1',
   Detail: '2',
