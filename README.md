@@ -7,14 +7,20 @@
  2. 我看到了一些Bad code，但我不知如何把它变成Good code，我想参考一些他人的设计
  3. 我在团队中缺少code review环境，我想提高自己的code水平
 
+<br>
+
 ## 输出
  * PR：输出您在code review时认为“经常容易”出现的Bad code，并输出您认为的Good code
  * Issues：输出您认为的Bad code，并求助/讨论如何变成Good code
+
+<br>
 
 ## 注意
  * 某个业务场景中的功能的设计或具体实现 ✅
  * 示例性质的代码片段 ❌
  * 您可以在不影响原实现的表达情况下而减少代码。但不可以是一个单纯的示例 💡
+
+<br>
 
 ## 格式
 **Type-1**———输出您在code review时认为“经常容易”出现的Bad code，并输出您认为的Good code
@@ -27,7 +33,7 @@
   7. 避免 <如何避免此类的Bad code>
   
 
-<br><br>
+<br>
 
 **Type-2**———输出您认为的Bad code，并求助/讨论如何变成Good code
   1. 标题 <您的主要阐述>
